@@ -2,17 +2,30 @@ var buttonElement = document.querySelector('#button')
 var decimalDivElement = document.querySelector('#response')
 var binaryInputElement = document.querySelector('#binary')
 
-buttonElement.onclick = function checkNumber(){
+function checkNumbers (numbers) {
+  for(let i = 0; i < numbers.length; i++){
+    if( numbers[i] != 1 && numbers[i] != 0){
+      console.log("ops!")
+      return false
+    }
+  }
+  return true
+}
+
+buttonElement.onclick = function validation(){
   if(binaryInputElement.value === ''){
-    alert('Plese, type a binary number!')
+    alert('Please, type a binary number!')
   }else{
-    console.log(converterBinaryToDecimal())
-    decimalDivElement.innerHTML = converterBinaryToDecimal()
-    //decimalInputElement.setAttribute('value', converterBinaryToDecimal())
+    let valide = checkNumbers(binaryInputElement.value.toString())
+    if( valide === true){
+      decimalDivElement.innerHTML = converterBinaryToDecimal()
+    } else {
+      alert('Please, type a binary number!')
+    }
   }
 }
 
 function converterBinaryToDecimal () {
-  let result = parseInt(binaryInputElement.value, 2)
-  return result
+  let number = parseInt(binaryInputElement.value, 2)
+  return number
 }
