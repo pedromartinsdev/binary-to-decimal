@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(40, 42, 54);
+}
+
+.painel{
+  background-color: rgb(98, 114, 164);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  border-width: 1px;
+  padding: 50px;
+  max-width: 400px;
+  margin-top: 0vh;
+  margin-left: 40vw;
+}
+
+#response {
+  width: 10px;
+  height: 10px;
+  margin: 30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+header{
+  color: aliceblue;
+  text-align: center;
+  max-width: 400px;
+  margin-top: 35vh;
+  margin-left: 40vw;
+}
