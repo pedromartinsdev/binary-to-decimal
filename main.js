@@ -1,11 +1,10 @@
 var buttonElement = document.querySelector('#button')
-var decimalDivElement = document.querySelector('#response')
+var decimalDivElement = document.querySelector('.response')
 var binaryInputElement = document.querySelector('#binary')
 
 function checkNumbers (numbers) {
   for(let i = 0; i < numbers.length; i++){
     if( numbers[i] != 1 && numbers[i] != 0){
-      console.log("ops!")
       return false
     }
   }
