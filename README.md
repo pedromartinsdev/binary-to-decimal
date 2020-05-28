@@ -1,5 +1,5 @@
 # binary-to-decimal
-- webpage to convert binary to decimal number
+webpage to convert binary to decimal number
 
 Este repositório contém uma página web que converte número binários em decimais.
 
