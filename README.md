@@ -1,5 +1,4 @@
 # binary-to-decimal
-webpage to convert binary to decimal number
 
 Este repositório contém uma página web que converte número binários em decimais.
 
@@ -12,3 +11,7 @@ Este repositório contém uma página web que converte número binários em deci
 - HTML
 - CSS
 - Javascript
+
+### Veja como ficou
+
+[Binary to Decimal](https://pedromartinscap.github.io/binary-to-decimal/)
