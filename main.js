@@ -1,6 +1,6 @@
-var buttonElement = document.querySelector('#button')
-var decimalDivElement = document.querySelector('.response')
-var binaryInputElement = document.querySelector('#binary')
+var buttonElement = document.querySelector('button')
+var resultElement = document.querySelector('.result')
+var binaryInputElement = document.querySelector('input')
 
 function checkNumbers (numbers) {
   for(let i = 0; i < numbers.length; i++){
@@ -17,7 +17,7 @@ buttonElement.onclick = function validation(){
   }else{
     let valide = checkNumbers(binaryInputElement.value.toString())
     if( valide === true){
-      decimalDivElement.innerHTML = converterBinaryToDecimal()
+      resultElement.innerHTML = converterBinaryToDecimal()
     } else {
       alert('Please, type a binary number!')
     }
