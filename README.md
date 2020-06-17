@@ -2,16 +2,36 @@
 
 Este repositório contém uma página web que converte número binários em decimais.
 
-### Idealização
+# binary-to-decimal
 
-  [Bin2Dec-App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+## :books: Projeto
 
-### Tecnologias utilizadas
+Esse pequeno projeto converte número binários em decimais utilizando Javascript
 
-- HTML
+<a align="center">
+
+![Binarie-to-Decimal](assets/gif-binare-to-decimal.gif)
+
+</a>
+
+## :computer: Tecnologias
+
+Foram usadas as seguintes tcnologias neste projeto:
+
+- HTML + Flexbox
 - CSS
 - Javascript
 
-### Veja como ficou
+## :smiley: Como vizualizar?
 
-[Binary to Decimal](https://pedromartinscap.github.io/binary-to-decimal/)
+Basta Acessar esse link:
+
+[Binário para Decimal](https://pedromartinscap.github.io/binary-to-decimal/)
+
+
+## :clap: Créditos
+  ### Idealização
+
+  [Bin2Dec-App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+
+Feito com :blue_heart: por Pedro Henrique - [LinkedIn](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)
