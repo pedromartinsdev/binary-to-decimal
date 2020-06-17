@@ -1,8 +1,4 @@
-# binary-to-decimal
-
-Este repositório contém uma página web que converte número binários em decimais.
-
-# binary-to-decimal
+# Binário para Decimal
 
 ## :books: Projeto
 
