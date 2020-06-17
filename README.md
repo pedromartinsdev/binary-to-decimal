@@ -2,7 +2,7 @@
 
 ## :books: Projeto
 
-Esse pequeno projeto converte número binários em decimais utilizando Javascript
+Esse pequeno projeto converte números binários em decimais utilizando Javascript
 
 <a align="center">
 
