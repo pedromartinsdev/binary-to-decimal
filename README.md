@@ -30,4 +30,4 @@ Basta Acessar esse link:
 
   [Bin2Dec-App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
-Feito com :blue_heart: por Pedro Henrique - [LinkedIn](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)
+Feito com :blue_heart: por [Pedro Henrique](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)
