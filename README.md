@@ -22,7 +22,7 @@ Foram usadas as seguintes tcnologias neste projeto:
 
 Basta Acessar esse link:
 
-[Binário para Decimal](https://pedromartinscap.github.io/binary-to-decimal/)
+[Binário para Decimal](https://pedromartinsdev.github.io/binary-to-decimal/)
 
 
 ## :clap: Créditos
